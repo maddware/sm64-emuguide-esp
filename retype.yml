@@ -1,12 +1,12 @@
 input: .
 output: .retype/emuguide
-url: "wermi.neocities.org/emuguide"
+url: "madware.neocities.org/emuguide"
 cname: false
 branding:
-  title: "emu guide :cow2:"
+  title: "guia emu :cow2:"
 links:
-- text: SM64 Speedruns Discord
-  link: https://discord.gg/0Si1OtnB7Yp7QjUF
+- text: SM64 Speedruns Discord en Español
+  link: https://discord.gg/2Vx5DeJvQP
 - text: "reason"
   link: https://www.youtube.com/watch?v=im9UzhOxVlI
 footer:
@@ -14,5 +14,5 @@ footer:
 exclude: 
 - "README.md"
 edit:
-  repo: "https://github.com/wermipls/sm64-emuguide"
-  label: Edit on GitHub
+  repo: "https://github.com/maddware/sm64-emuguide-esp"
+  label: 
