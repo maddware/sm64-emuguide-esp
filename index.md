@@ -1,5 +1,5 @@
 ---
-title: "emu guide"
+title: "guía emu"
 description: "Guía exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
