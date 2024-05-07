@@ -1,5 +1,5 @@
 # sm64-guia-emu
-wermi's emulation setup guide for Super Mario 64 speedruns translated to spanish . Online version hosted here: https://madware.neocities.org/guiaemu
+wermi's emulation setup guide for Super Mario 64 speedruns translated to spanish . Online version hosted here: https://maddware.github.io/sm64-guia-emu/
 
 ## Building
 Install [Retype](https://retype.com/guides/getting-started/), then run `retype build`. Use `retype watch` to start a web server with the site updating automatically as you make changes.
