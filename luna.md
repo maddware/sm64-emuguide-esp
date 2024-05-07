@@ -10,7 +10,7 @@ description: "Guia exhaustiva de la configuracion del emulador para speedruns de
 [!ref target="blank" text="Descarga"](https://github.com/LunaticShiN3/Luna-DirectInput8/releases)
 
 !!!
-Este plugin solo funciona en teclado. Para controles, usa una alternativa apropiada listada en la [pagina de selección de plugins](plugin_setup.md#plugin-selection).
+Este plugin solo funciona en teclado. Para controles, usa una alternativa apropiada listada en la [pagina de selección de plugins](plugin_setup.md#selección-de-plugins).
 !!!
 
 !!!

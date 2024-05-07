@@ -1,0 +1,183 @@
+{
+  "version": "3.5.0",
+  "created": "2024-05-07T17:23:20Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "azi\\index.html"
+    },
+    {
+      "path": "basic_config\\index.html"
+    },
+    {
+      "path": "fixups\\index.html"
+    },
+    {
+      "path": "getting_emu\\index.html"
+    },
+    {
+      "path": "getting_game\\index.html"
+    },
+    {
+      "path": "gliden64_link\\index.html"
+    },
+    {
+      "path": "gliden64_old\\index.html"
+    },
+    {
+      "path": "gln64\\index.html"
+    },
+    {
+      "path": "img\\azi70.png"
+    },
+    {
+      "path": "img\\azimer.png"
+    },
+    {
+      "path": "img\\fixups.png"
+    },
+    {
+      "path": "img\\gliden64_link.png"
+    },
+    {
+      "path": "img\\gliden64_rev8004dc2.png"
+    },
+    {
+      "path": "img\\gln64.png"
+    },
+    {
+      "path": "img\\keyboardinput.png"
+    },
+    {
+      "path": "img\\luna.png"
+    },
+    {
+      "path": "img\\m4sv_conf.png"
+    },
+    {
+      "path": "img\\nrage183.png"
+    },
+    {
+      "path": "img\\nrage23c.png"
+    },
+    {
+      "path": "img\\octomino_wermi.png"
+    },
+    {
+      "path": "img\\octomino.png"
+    },
+    {
+      "path": "img\\pj64_advanced.png"
+    },
+    {
+      "path": "img\\pj64_browser.gif"
+    },
+    {
+      "path": "img\\pj64_gamesettings.png"
+    },
+    {
+      "path": "img\\pj64_options.png"
+    },
+    {
+      "path": "img\\pj64_romconfig.png"
+    },
+    {
+      "path": "img\\pj64_welcome.png"
+    },
+    {
+      "path": "img\\pj64-wiiu-gcn.png"
+    },
+    {
+      "path": "img\\plugin_selection.png"
+    },
+    {
+      "path": "img\\range_correct.png"
+    },
+    {
+      "path": "img\\raphnetraw.png"
+    },
+    {
+      "path": "img\\shunyuan.png"
+    },
+    {
+      "path": "img\\zadig.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "keyboardinput\\index.html"
+    },
+    {
+      "path": "luna\\index.html"
+    },
+    {
+      "path": "nrage\\index.html"
+    },
+    {
+      "path": "octomino\\index.html"
+    },
+    {
+      "path": "pj64-wiiu-gcn\\index.html"
+    },
+    {
+      "path": "plugin_setup\\index.html"
+    },
+    {
+      "path": "raphnetraw\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "shunyuan\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "wiiu_gc\\index.html"
+    }
+  ]
+}
