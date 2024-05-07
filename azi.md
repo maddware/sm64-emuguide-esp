@@ -11,4 +11,4 @@ description: "Guia exhaustiva de la configuracion del emulador para speedruns de
 
 El mejor plugin de audio disponible para Project64. Este en especifico es una version modificada que viene con mejores configuraciones default y el cual guarda la configuracion en AppData.
 
-[!ref Regresa a la seleccion de plugins](plugin_setup.md#plugin-selection)
+[!ref Regresar a la selección de plugins](plugin_setup.md#selección-de-plugins)

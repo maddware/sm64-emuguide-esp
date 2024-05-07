@@ -1,28 +1,27 @@
 ---
 title: "PJ64 Fixups"
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
 # PJ64 Fixups
 
 ![](./img/fixups.png)
 
-[!ref target="blank" text="Download"](https://github.com/aglab2/PJ64Fixups/releases)
+[!ref target="blank" text="Descarga"](https://github.com/aglab2/PJ64Fixups/releases)
 
-This is an RSP plugin made by aglab2, which fixes multiple issues with the 1.6 version of Project64, while adding several new features.
+Este es un plugin RSP hecho por aglab2, el cual arregla muchos de los problemas presentes en Project 64 1.6, incluyendo varias caracteristicas adicionales.
+Lista no exhaustiva de cambios:
+- Reinicios lentos mejorados
+- Cargas de ROM instantaneas
+- Counter Factor en 1 por defecto
+- Algoritmos de descompresion ZIP mas rapidos para mejores load states.
+- Ultimo save state cargado en caché para cargas de load states mas rapidas
+- Solucionadas las pequeñas pausas luego de cargar un savestate.
+- Capacidad para reemplazar cualquier atajo de teclado del emulador
+- Solucionado el TEQ crash
+- Removido el error de chip CIC
+- Mejorado el rendimiento de la reinicializacion en resets/save states.
 
-Non-exhaustive list of changes over default Project64 1.6:
-- Fixed slow resets
-- Instant ROM loads without unnecessary sleeps
-- Counter Factor 1 by default
-- Faster ZIP decompression algorithm for better state loads
-- Cached last loaded state for faster state loads
-- Fixed stutter after savestate load
-- Ability to override any hotkey
-- Fixed TEQ crash
-- Removed CIC Chip error
-- Improved reinitialization performance on resets/state loads
+Cuando este configurado correctamente el titulo de la aplicacion deberia aparecer como **LINK's Project64**.
 
-When set up correctly, the title of application should appear as **LINK's Project64**.
-
-[!ref Return to plugin selection](plugin_setup.md#plugin-selection)
+[!ref Regresar a la selección de plugins](plugin_setup.md#selección-de-plugins)

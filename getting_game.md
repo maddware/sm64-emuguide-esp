@@ -1,15 +1,15 @@
 ---
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
-# Acquiring the game
+# Adquiriendo el ROM
 
-While not strictly related to setting up the emulator itself, this gets asked fairly often, so it needs to be mentioned.  You will have to acquire the game ROM **on your own**. I am unable to provide help as distribution of those is illegal. 
+Si bien no es estrictamente relacionado a configurar el emulador como tal, esto es preguntado relativamente frecuente, asi que tiene que ser mencionado. vas a tener que adquirir el archivo ROM del juego **por ti mismo**. Es imposible de proporcionar el ROM en una guia debido a que la distribucion de estos es ilegal. 
 
-Below are some checksums of known good files, which you can use to verify the validity of your ROMs. If you do not have a program to generate the checksums of your files, you can instead use the [Usamune ROM](https://sites.google.com/view/supermario64/usamunepj/usamunerom) patcher, which will also validate the file before applying a patch.
+Abajo se encuentran algunos checksums de archivos que se conocen como validos, los cuales puedes usar para verificar la validez de tus ROMs. Si no tienes un programa que genere el checksum de tus archivos, puedes usar el [Usamune ROM](https://sites.google.com/view/supermario64/usamunepj/usamunerom), el cual tambien validara tu archivo antes de aplicar el parche.
 
 !!!
-Keep in mind that **.n64** or **.v64** files will have **different checksums** than **.z64** files, as those have different [endianness](https://en.wikipedia.org/wiki/Endianness).
+Ten en cuenta que archivos **.n64** o **.v64** van a tener **diferentes checksums** en comparacion a archivos **.z64**, ya que ellos tienen diferente [endianness](https://en.wikipedia.org/wiki/Endianness).
 !!!
 
 | filename | checksum | 
@@ -17,8 +17,7 @@ Keep in mind that **.n64** or **.v64** files will have **different checksums** t
 | Super Mario 64 (U) [!].z64 | MD5: `20b854b239203baf6c961b850a4a51a2` <br>SHA1: `9bef1128717f958171a4afac3ed78ee2bb4e86ce` | 
 | Super Mario 64 (J) [!].z64 | MD5: `85d61f5525af708c9f1e84dce6dc10e9` <br>SHA1: `8a20a5c83d6ceb0f0506cfc9fa20d8f438cafe51` | 
 
-## Getting the practice ROM
+## Consiguiendo el ROM de practica (Usamune)
 
-After getting Super Mario 64, it's a good idea to acquire the **Usamune ROM** as well. Aside from being **an excellent practice and learning tool**, it provides a numerical input display feature which will be helpful in determining the optimal range setting for generic adapters and non-N64 controllers later on. More detailed information and instructions can be found on the project's website below.
-
-[!ref target="blank" text="Usamune ROM website"](https://sites.google.com/view/supermario64/usamunepj/usamunerom)
+Luego de conseguir Super Mario 64, es buena idea conseguir el **Usamune ROM** tambien. Ademas de ser un **excelente herramienta de practica y aprendizaje**, provee un visualizador de inputs los cuales pueden ser utiles para determinar el rango optimo al momento de configurar mandos de N64 no convencionales o con adaptadores mas adelante en la guia. Informacion mas detallada puede ser encontradas en el siguiente link de la pagina del ROM.
+[!ref target="blank" text="Usamune ROM en ingles"](https://sites.google.com/view/supermario64/usamunepj/usamunerom)

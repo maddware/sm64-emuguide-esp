@@ -1,42 +1,41 @@
 ---
 title: "N-Rage's Input"
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
 # N-Rage's Direct-Input8 V2 1.83
 
 ![](./img/nrage183.png)
 
-[!file Download](https://www.dropbox.com/s/31fdrxuxjybzzu0/nrplugin2_183.zip?dl=1)
+[!file Descarga](https://www.dropbox.com/s/31fdrxuxjybzzu0/nrplugin2_183.zip?dl=1)
 
 !!!
-Before trying to set up the binds, go to the **Devices** tab and select your controller in the device dropdown.
+Antes de intentar configurar los controles, ve a la pestaña **Devices** y selecciona tu controlador en el menú desplegable de dispositivos.
 !!!
 
-An older plugin with a plethora of features. An excellent choice for DirectInput controllers, but may have issues with handling XInput. Make sure that **Plugged** is checked. Set deadzone to the lowest amount that doesn’t give you issues (e.g. Mario walking on his own), usually 0% is sufficient as SM64 has a deadzone of its own.
+Un plugin más antiguo con una gran cantidad de características. Una excelente opción para controladores DirectInput, pero puede tener problemas al usar XInput. Asegúrate de que **Plugged** esté marcado. Ajusta la deadzone al menor valor que no te cause problemas (por ejemplo, Mario caminando solo), generalmente el 0% es suficiente ya que SM64 tiene su propia deadzone (zona donde el analogo no mueve a mario).
 
-### Setting the range
+### Eligiendo el rango
+Para determinar el rango óptimo del analogo, es posible usar la ROM Usamune para visualizar el valor numero de nuestro analogo. Para habilitarla, inicia la ROM, luego presiona direccional para abajo, para abrir el menú de configuración. Navega hasta la sección HUD, luego establece la opción INPUT en ONVAL usando los botones C. Esto debería hacer que aparezcan dos números en la esquina inferior izquierda del juego, el primero siendo el valor del eje Y y el otro el eje X. Ajusta el rango en la configuración de N-Rage hasta que alcances aproximadamente 80 en el juego mientras mantienes las direcciones principales. Esto es similar al rango del mando original de N64 y lo normal para los juegos de N64, cualquier cosa más resultará en una sensibilidad excesiva. Si tienes problemas para alcanzar esos valores incluso con el rango establecido al 100%, intenta calibrar tu mando en Windows.
 
-To determine the optimal analog stick range, one may want to use the numerical input display feature present in Usamune ROM. To enable, launch the rom, then press **D-Pad down** to bring out the configuration menu. Navigate to the **HUD** section, then set the **INPUT** option to **ONVAL** using the C-Buttons. This should make two numbers appear in the bottom left corner of the game, the first one being Y axis value and the other one being X axis. Adjust the **Range** slider in N-Rage settings until you’re hitting **about 80** in-game while holding main directions. This is what the original N64 controller range’s like and what N64 games expect, anything more will result in excessive sensitivity. If you’re struggling to reach those values even with range set to 100%, try calibrating your controller in Windows.
-
-!!!warning
-The **Real N64 Range** option should be **unchecked** at all times, as it reduces range on diagonal angles.
+!!!Advertencia
+La opcion **Real N64 Range** debe estar **sin marcar** siempre, ya que reduce el rango en los angulos diagonales.
 !!!
 
-![An example of the range being set correctly](./img/range_correct.png)
+![Ejemplo de un rango configurado correctamente](./img/range_correct.png)
 
 ## N-Rage Input Plugin V2 2.4(fork)
 
 ![](./img/nrage23c.png)
 
-[!file Download](https://malkierian.com/downloads/NRage-Xinput.zip)
+[!file Descarga](https://malkierian.com/downloads/NRage-Xinput.zip)
 
-Usage mostly similar to the older version, aside from missing device selection. Use this if you have any problems with 1.83.
+Uso similar al de las versiones antiguas. Usa esto si tienes problemas con 1.83.
 
-The manual install package also includes Xidi, which may help with XInput controller compatibility.
+El paquete de instalacion manual deberia tambien incluir Xidi, el cual ayuda a tener compatibilidad con mandos XInput.
 
-!!!warning
-Avoid using in XInput mode - its code is poorly stitched on top of the rest of the plugin, which results in e.g. macros not working. It also doesn’t handle reconnecting controllers properly and the analog range is far too sensitive. If you have an XInput controller, [**Octomino's SDL Input**](octomino.md) can be used instead.
+!!!Advertencia
+Evita usar el XInput mode - su codigo esta adherido arriba del resto del plugin, lo cual provoca problemas como por ejemplo macros no funcionando. Ademas no maneja reconexión de mandos de manera correcta y el rango del analogo es muy sensitivo. Si quieres usar un XInput controller, [**Octomino's SDL Input**](octomino.md) puede ser usado como mejor alternativa.
 !!!
 
-[!ref Return to plugin selection](plugin_setup.md#plugin-selection)
+[!ref Regresar a la selección de plugins](plugin_setup.md#selección-de-plugins)

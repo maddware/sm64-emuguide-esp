@@ -1,18 +1,18 @@
 ---
 title: "emu guide"
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
-# Comprehensive emulator setup guide for Super Mario 64 speedruns
+# Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64
 
-This document describes in detail how to set up an emulator for Super Mario 64 speedrunning, while achieving the best experience possible. The guide is meant to improve upon [GiBoss' emulator setup guide](https://docs.google.com/document/d/1k02cyFMU2de1moy1NOUjX9M79I5N7tLEty7pSpenloE/edit?usp=sharing) by providing more detailed and up-to-date information, as well as being presented in a more concise way.
-
-!!!
-
-This guide is meant for **Super Mario 64 speedrunning** specifically, as other speedgames may have different rulesets and require different configurations. If you want to play N64 games casually instead, there's a [page on Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Nintendo_64_emulators) which may provide useful information.
+Este documento describe en detalle como configurar un emulador para speedruns de Super Mario 64, logrando la mejor experiencia posible. Esta guia es la traduccion de una guia en ingles: [wermi's emu guide](https://wermi.neocities.org/emuguide/) la cual mejora la [GiBoss' emulator setup guide](https://docs.google.com/document/d/1k02cyFMU2de1moy1NOUjX9M79I5N7tLEty7pSpenloE/edit?usp=sharing) al entregar informacion mas detallada y al dia, tambien al ser presentada en una forma mas concisa.
 
 !!!
 
-## Support
+Esta guia esta hecha para **Super Mario 64 speedruns** especificamente, por lo que otros speedgames pueden tener diferentes reglas y requerir por lo tanto diferentes configuraciones. Si quieres jugar juegos de la Nintendo 64, se sugiere la [wiki de emulacion general en ingles](https://emulation.gametechwiki.com/index.php/Nintendo_64_emulators) la cual puede proveer informacion util.
 
-If you encounter any problems following the guide or you didn't find the information you need, feel free to ask in the **#technical_help** channel on [**Super Mario 64 Speedruns**](https://discord.gg/0Si1OtnB7Yp7QjUF) Discord, where people will try their best to provide help.
+!!!
+
+## Soporte
+
+Si encuentras algun problema siguiendo la guia o no has encontrado la informacion que necesitabas, sientete libre de preguntar en el canal de **#「ayuda💡」** en el servidor de [**Super Mario 64 Speedruns en Español**](https://discord.gg/2Vx5DeJvQP), donde la gente puede ayudarte a resolver tus dudas.

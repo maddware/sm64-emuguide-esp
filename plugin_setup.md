@@ -1,35 +1,34 @@
 ---
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
-# Setting up the plugins
+# Configurando los plugins
 
-By default, Project64 1.6 comes with Jabo plugins. While they generally work, they are ridden by many problems, such as missing shadows on Intel GPUs or crackly audio. This section provides information on recommended plugins as well how to set them up.
+Por defecto, Project64 1.6 viene con plugins de Jabo. Si bien generalmente funcionan, estos tienen varios defectos, como sombras faltantes en graficas de intel o audio distorcionados. Esta sección proporciona información sobre los plugins recomendados, así como sobre cómo configurarlos.
 
-!!! Concerning manual setup
-All the necessary plugins are already included with the provided Project64 build, but if you did the installation manually, you will have to install the plugins manually, too. This is typically done by copying the plugin .dll files, as well as any other files into the Plugin folder inside Project64's installation directory.
+!!! Respecto a configurar manualmente
+Todos los plugins necesarios son provistos por el paquete presentado en esta guia, pero si has hecho la instalación manual, deberas instalar los plugins manualmente tambien. Esto es simplemente copiar los archivos .dll de los plugins dentro de una carpeta llamada Plugin dentro de la carpeta de instalacion de Project64.
 !!!
 
-## Plugin selection
+## Selección de plugins
+Los Plugins pueden ser cambiados al abrir el menu  de **Options -> Settings**. Luego de seleccionarlos, los plugins pueden ser configurados en **Options -> Configure Graphics/Audio/Controller plugin**. Sigue los links para información detallada de como configurar plugins individualmente.
 
-The plugins can be changed by opening the **Options -> Settings** menu. After selecting, the plugins can be configured by going into **Options -> Configure Graphics/Audio/Controller plugin**. Follow the links below for detailed information on configuring individual plugins.
+### Plugins graficos
+- **Recomendado:** [**LINK's GLideN64**](gliden64_link.md)
+- Alternativa: [GLideN64 rev.8004dc2](gliden64_old.md) or [glN64](gln64.md)
 
-### Graphics plugins
-- **Recommended:** [**LINK's GLideN64**](gliden64_link.md)
-- Alternatives: [GLideN64 rev.8004dc2](gliden64_old.md) or [glN64](gln64.md)
+### Plugins de audio
+- **Recomendado:** [**Azimer's HLE v0.70 WIP 10**](azi.md)
 
-### Audio plugins
-- **Recommended:** [**Azimer's HLE v0.70 WIP 10**](azi.md)
+### Plugins de mando
+Lamentablemente hay un par de diferentes opciones para plugins de mando, con diferentes caracteristicas cada uno, por lo que el mejor plugin depende de que mando quieras usar.
 
-### Controller plugins
-Unfortunately there is a lot of controller plugins with their own set of quirks, and the optimal choice depends on the type of controller used.
-
-- For **Raphnet N64 to USB v3** adapter: [**raphnetraw**](raphnetraw.md)
-- For **Xbox**, **Dualshock 4/5**, **Switch Pro Controller** or other **XInput** controllers: [**Octomino's SDL Input**](octomino.md)
-- For **keyboard**: [**Luna's DirectInput**](luna.md) (recommended) or [**LINK's DirectInput**](keyboardinput.md)
-- For other DirectInput/generic controllers: [**N-Rage's Input**](nrage.md)
-- For **Wii U/Switch Gamecube** adapters, [**see this page**](wiiu_gc.md) for special instructions.
+- Para usuarios del adaptador **Raphnet N64 to USB v3**: [**raphnetraw**](raphnetraw.md)
+- Para mandos **Xbox**, **Dualshock 4/5**, **Switch Pro Controller** o **XInput**: [**Octomino's SDL Input**](octomino.md)
+- Para  **Teclado**: [**Luna's DirectInput**](luna.md) (recommended) or [**LINK's DirectInput**](keyboardinput.md)
+- Para otros mandos con DirectInput o genericos: [**N-Rage's Input**](nrage.md)
+- Para adaptadores de **Gamecube para Wii U/Switch**, [**mira esta pagina**](wiiu_gc.md) para instrucciones especiales.
 
 ### RSP plugin
 
-- **Recommended:** [**PJ64 Fixups**](fixups.md)
+- **Recomendado:** [**PJ64 Fixups**](fixups.md)

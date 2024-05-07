@@ -7,12 +7,8 @@ branding:
 links:
 - text: SM64 Speedruns Discord en Español
   link: https://discord.gg/2Vx5DeJvQP
-- text: "reason"
-  link: https://www.youtube.com/watch?v=im9UzhOxVlI
-footer:
-  copyright: "wermi {{ year }}"
+- text: "|"
+  link: https://www.youtube.com/watch?v=RoFmEdS4uQg
 exclude: 
 - "README.md"
-edit:
-  repo: "https://github.com/maddware/sm64-emuguide-esp"
-  label: 
+

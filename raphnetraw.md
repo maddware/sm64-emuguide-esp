@@ -1,21 +1,21 @@
 ---
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
 # raphnetraw for Project64
 
 ![](./img/raphnetraw.png)
 
-[!file Download](https://www.raphnet.net/programmation/mupen64plus-input-raphnetraw/pj64raphnetraw-1.0.7.zip)
+[!file Descarga](https://www.raphnet.net/programmation/mupen64plus-input-raphnetraw/pj64raphnetraw-1.0.7.zip)
 
-A plugin for **third generation raphnet N64 to USB** adapters, allowing direct communication with the controller. Has low latency and provides 100% accurate inputs to console. No configuration possible (or needed).
-
-!!!
-It is suggested to use the **port 1 only** version for optimal performance.
-!!!
+Un plugin para adaptadores de **tercera generacion raphnet N64 to USB**, permite comunicación directa con el mando. Tiene baja latencia y provee un 100% de precision en inputs a la consola. No necesita configuracion.
 
 !!!
-If you have the dual-port version of the adapter, there is a fork that makes it possible to switch between N64 controllers by pressing Z+L+R: https://github.com/panther03/pj64raphnetraw/releases 
+Se sugiere usar el **puerto 1 solamente** para rendimiento optimo.
 !!!
 
-[!ref Return to plugin selection](plugin_setup.md#plugin-selection)
+!!!
+Si tienes puerto dual en tu adaptador, existe un fork que hace posible cambiar entre mandos de N64 presionando Z+L+R: https://github.com/panther03/pj64raphnetraw/releases 
+!!!
+
+[!ref Regresar a la selección de plugins](plugin_setup.md#selección-de-plugins)

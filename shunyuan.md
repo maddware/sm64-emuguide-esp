@@ -1,22 +1,22 @@
 ---
 title: "shunyuan’s HLE audio"
-description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64"
 ---
 
-# shunyuan’s HLE audio plugin v1.8.2u1
+# Plugin de audio shunyuan’s HLE v1.8.2u1
 
 ![](./img/shunyuan.png)
 
-[!file Download](https://www.dropbox.com/s/hhgnnm77a3945j7/HleAudio_v1.8.2u1.zip?dl=1)
+[!file Descarga](https://www.dropbox.com/s/hhgnnm77a3945j7/HleAudio_v1.8.2u1.zip?dl=1)
 
-Another good audio plugin, however it has higher latency than Azimer and doesn’t allow going above the FPS limit.
+Otro buen plugin de audio, pese a eso, tiene mayor latencia que el plugin Azimer, y no permite ir mas alla del limite de FPS.
 
-!!!danger
+!!!Precaución
 
-This plugin is NOT recommended for speedrun usage.
+Este plugin **NO** esta recomendado para speedrun.
 
-The plugin still unlimits FPS during the load screens, giving an unfair advantage when **Frame Limiter** is disabled. This is very easy to do even by complete accident, and will cause the run to be **INVALIDATED**.
+Este plugin no limita FPS durante escenas de carga, dando una ventaja injusta cuando **Frame Limiter** esta desactivado. Esto es muy facil de cometer por completo accidente, y dicho caso resultara en una run **INVALIDA**.
 
 !!!
 
-[!ref Return to plugin selection](plugin_setup.md#plugin-selection)
+[!ref Regresar a la selección de plugins](plugin_setup.md#selección-de-plugins)
