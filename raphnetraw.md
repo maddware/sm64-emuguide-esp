@@ -1,5 +1,5 @@
 ---
-description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
+description: "Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64" 
 ---
 
 # raphnetraw for Project64
@@ -8,10 +8,10 @@ description: "Guia exhaustiva de la configuracion del emulador para speedruns de
 
 [!file Descarga](https://www.raphnet.net/programmation/mupen64plus-input-raphnetraw/pj64raphnetraw-1.0.7.zip)
 
-Un plugin para adaptadores de **tercera generacion raphnet N64 to USB**, permite comunicación directa con el mando. Tiene baja latencia y provee un 100% de precision en inputs a la consola. No necesita configuracion.
+Un plugin para adaptadores de **tercera generación raphnet N64 to USB**, permite comunicación directa con el mando. Tiene baja latencia y provee un 100% de precisión en inputs a la consola. No necesita configuración.
 
 !!!
-Se sugiere usar el **puerto 1 solamente** para rendimiento optimo.
+Se sugiere usar el **puerto 1 solamente** para rendimiento óptimo.
 !!!
 
 !!!

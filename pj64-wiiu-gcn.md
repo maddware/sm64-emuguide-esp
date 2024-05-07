@@ -1,6 +1,6 @@
 ---
 title: "pj64-wiiu-gcn"
-description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
+description: "Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64" 
 ---
 
 # pj64-wiiu-gcn
@@ -19,7 +19,7 @@ Antes de usar el plugin, necesitaras tener el driver WinUSB instalado. Para hace
 
 Luego de abrir el instalador, deberias tener una ventana similar a la de imagen de abajo. Haz clic en **Options** y marca **List All Devices**. En el menu desplegable, selecciona **WUP-028**.
 
-!!!Precaución
+!!!danger
 **NO** intentes instalar el driver si el dispositivo no es el mismo! El campo de **USB ID** debe ser `057E 0337`, como la imagen de abajo. Si tienes un adaptador generico asegurate que el modo Wii U este seleccionado.
 !!!
 

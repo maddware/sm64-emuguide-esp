@@ -1,6 +1,6 @@
 ---
 title: "Octomino's SDL Input"
-description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
+description: "Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64" 
 ---
 
 # Octomino's SDL Input v0.1.1
@@ -19,7 +19,7 @@ Un plugin basado en la libreria SDL2. Contiene soporte para controles tales como
 
 Si bien el proyecto original no tiene configuraciones y no ha sido actualizado en un tiempo, existe un fork el cual entrega soporte para configuraciones de manera rudimentaria. Usa esto si no estas satisfecho con las configuraciones originales.
 
-!!!Advertencia
+!!!warning
 El plugin aun esta en progreso y puede tener bugs.
 !!!
 

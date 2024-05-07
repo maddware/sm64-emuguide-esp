@@ -1,6 +1,6 @@
 ---
 title: Azimer’s HLE v0.70 WIP 10
-description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
+description: "Guía exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
 ---
 
 # Azimer’s HLE v0.70 WIP 10

@@ -1,5 +1,5 @@
 ---
-description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
+description: "Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64" 
 ---
 
 # GlideN64 rev. 8004dc2
@@ -8,13 +8,13 @@ description: "Guia exhaustiva de la configuracion del emulador para speedruns de
 
 [!file Descarga](https://www.dropbox.com/s/wilxwf4kwan60sy/GLideN64%20rev8004dc2.zip?dl=1)
 
-Una version mas antigua de GLideN64. Comparada a la version nueva, le faltan algunas caracteristicas (tales como relacion de aspecto con framebuffer desactivado), de todas maneras tiene buena compatibilidad con romhacks y es menos exigente en recursos. Resolución 720p es recomendada para evitar artefactos visuales casuados por framebuffer.
+Una versión mas antigua de GLideN64. Comparada a la versión nueva, le faltan algunas características (tales como relación de aspecto con framebuffer desactivado), de todas maneras tiene buena compatibilidad con romhacks y es menos exigente en recursos. Resolución 720p es recomendada para evitar artefactos visuales casuados por framebuffer.
 
-!!!Advertencia
+!!!warning
 Asegurate de **desactivar** "framebuffer emulation", debido a que incrementa la latencia.
 !!!
 
-!!!Advertencia
+!!!warning
 Si usas OBS, asegurate de usar **Game Capture** o **Captura de Juego**.
 !!!
 

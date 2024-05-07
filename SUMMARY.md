@@ -17,6 +17,7 @@
 - - [LINK's DirectInput](keyboardinput.md)
 - - [N-Rage's Input](nrage.md)
 - - [pj64-wiiu-gcn](pj64-wiiu-gcn.md)
+- - [wiiu_gc](wiiu_gc.md)
 - [PJ64 Fixups](fixups.md)
 #- [Additional stuff]()
 #- - [Practice codes]()

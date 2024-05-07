@@ -1,5 +1,5 @@
 ---
-description: "Guia exhaustiva de la configuracion del emulador para speedruns de Super Mario 64" 
+description: "Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64" 
 ---
 
 # ANGLE GLideN64 (LINK's GLideN64)
@@ -7,15 +7,15 @@ description: "Guia exhaustiva de la configuracion del emulador para speedruns de
 ![](./img/gliden64_link.png)
 
 [!ref target="blank" text="Descarga"](https://github.com/aglab2/GLideN64/releases)
-[!file Descarga (version antigua)](https://www.mediafire.com/file/k9ad2bdodde327u/GLideN64-sm64hacks.zip/file)
+[!file Descarga (versión antigua)](https://www.mediafire.com/file/k9ad2bdodde327u/GLideN64-sm64hacks.zip/file)
 
-Posiblemente el mejor HLE graphic plugin disponible. Este es un fork de GLideN64, introduciendo algunas regresiones para mejorar compatibilidad de romhacks. Esta version del plugin tambien permite correciones de relacion de aspecto con framebuffer desactivado. Resolucion 720p es recomendada para evitar artefactos visuales causados por el framebuffer. La version ANGLE tambien introduce DX11 y Vulkan backends, mientras mantiene la version de legado de OpenGL backend como una opcion.
+Posiblemente el mejor HLE graphic plugin disponible. Este es un fork de GLideN64, introduciendo algunas regresiones para mejorar compatibilidad de romhacks. Esta versión del plugin también permite correcciones de relación de aspecto con framebuffer desactivado. Resolucion 720p es recomendada para evitar artefactos visuales causados por el framebuffer. La versión ANGLE tambien introduce DX11 y Vulkan backends, mientras mantiene la versión de legado de OpenGL backend como una opción.
 
-!!!Advertencia
+!!!warning
 Asegurate de **desactivar** "framebuffer emulation", debido a que incrementa la latencia.
 !!!
 
-!!!Advertencia
+!!!warning
 Si usas OBS, asegurate de usar **Game Capture** o **Captura de Juego**.
 !!!
 

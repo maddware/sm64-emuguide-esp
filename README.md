@@ -1,4 +1,4 @@
-# sm64-emuguide
+# sm64-guia-emu
 wermi's emulation setup guide for Super Mario 64 speedruns translated to spanish . Online version hosted here: https://madware.neocities.org/guiaemu
 
 ## Building
