@@ -11,7 +11,7 @@ description: "Guía exhaustiva de la configuración del emulador para speedruns 
 
 Un plugin basado en la libreria SDL2. Contiene soporte para controles tales como Xbox, PS4/5, Switch Pro y muchos otros proporcionados por [base de datos de controles](https://github.com/gabomdq/SDL_GameControllerDB). Plug and play, no es necesario configurar.
 
-## fork de wermi
+## Fork de wermi
 
 ![](./img/octomino_wermi.png)
 

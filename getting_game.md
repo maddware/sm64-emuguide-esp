@@ -4,7 +4,7 @@ description: "Guía exhaustiva de la configuración del emulador para speedruns 
 
 # Adquiriendo el ROM
 
-Si bien no es estrictamente relacionado a configurar el emulador como tal, esto es preguntado relativamente frecuente, asi que tiene que ser mencionado. vas a tener que adquirir el archivo ROM del juego **por ti mismo**. Es imposible de proporcionar el ROM en una guía debido a que la distribución de estos es ilegal. 
+Si bien no es estrictamente relacionado a configurar el emulador como tal, esto es preguntado frecuentemente, asi que tiene que ser mencionado. vas a tener que adquirir el archivo ROM del juego **por ti mismo**. Es imposible de proporcionar el ROM en una guía debido a que la distribución de estos es ilegal. 
 
 Abajo se encuentran algunos checksums de archivos que se conocen como validos, los cuales puedes usar para verificar la validez de tus ROMs. Si no tienes un programa que genere el checksum de tus archivos, puedes usar el [Usamune ROM](https://sites.google.com/view/supermario64/usamunepj/usamunerom), el cual tambien validara tu archivo antes de aplicar el parche.
 
@@ -19,5 +19,5 @@ Ten en cuenta que archivos **.n64** o **.v64** van a tener **diferentes checksum
 
 ## Consiguiendo el ROM de practica (Usamune)
 
-Luego de conseguir Super Mario 64, es buena idea conseguir el **Usamune ROM** también. Además de ser un **excelente herramienta de práctica y aprendizaje**, provee un visualizador de inputs los cuales pueden ser utiles para determinar el rango óptimo al momento de configurar mandos de N64 no convencionales o con adaptadores más adelante en la guia. Información más detallada puede ser encontradas en el siguiente link de la página del ROM.
+Luego de conseguir Super Mario 64, es buena idea conseguir el **Usamune ROM** también. Además de ser un **excelente herramienta de práctica y aprendizaje**, provee un visualizador de inputs los cuales pueden ser útiles para determinar el rango óptimo al momento de configurar mandos de N64 no convencionales o con adaptadores más adelante en la guia. Información más detallada puede ser encontradas en el siguiente link de la página del ROM.
 [!ref target="blank" text="Usamune ROM en ingles"](https://sites.google.com/view/supermario64/usamunepj/usamunerom)

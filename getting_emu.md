@@ -23,14 +23,14 @@ Si tienes errores cargando cualquiera de los plugins, vas a necesitar instalar l
 
 !!!warning
 
-Esta guía esta escrita con asumiendo que usas la versión provista en esta página para hacer el proceso más expedito y sin problemas. Una instalación manual es posible pero no recomendada. No soy tu mama de todos modos :shrug:
+Esta guía esta escrita asumiendo que usas la versión provista en esta página para hacer el proceso más expedito y sin problemas. Una instalación manual es posible pero no recomendada. No soy tu mama de todos modos :shrug:
 
 !!!
 
-Si quieres configurar el emulador manualmente, puedes también [descargar Project64 1.6 directamente desde Jabosoft](http://www.jabosoft.com/articles/114), junto con un parche para actualizar los Jabo plugins para mejor compatibilidad. Corre el instalador de la versión 1.6 primero, luego aplica el parche 1.6.1 tanto corriendo el instalador o copiando los plugins a la carpeta Plugins en el caso de la version .zip.
+Si quieres configurar el emulador manualmente, puedes también [descargar Project64 1.6 directamente desde Jabosoft](http://www.jabosoft.com/articles/114), junto con un parche para actualizar los Jabo plugins para mejor compatibilidad. Corre el instalador de la versión 1.6 primero, luego aplica el parche 1.6.1 tanto corriendo el instalador o copiando los plugins a la carpeta Plugins en el caso de la versión .zip.
 
 !!!
 
-Es sugerido que el emulador instalado **cualquier parte que no sea Program Files o Archivos de programa**, por ejemplo `C:\Project64 1.6`. Esto es debido a que los permisos de escritura están restringidos para ese directorio en nuevas versiones de windows y cualquier escritura realizada por aplicaciones de legado serán dirigidas a la carpeta VirtualStore, causando preguntarte por ejemplo donde están tus archivos de guardado exactamente.
+Es sugerido que el emulador esté instalado en **cualquier directorio que no sea Program Files o Archivos de programa**, por ejemplo `C:\Project64 1.6`. Esto es debido a que los permisos de escritura están restringidos para ese directorio en nuevas versiones de windows y cualquier escritura realizada por aplicaciones de legado serán dirigidas a la carpeta VirtualStore, causando preguntarte por ejemplo donde están tus archivos de guardado exactamente.
 
 !!!
