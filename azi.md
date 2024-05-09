@@ -9,6 +9,6 @@ description: "Guía exhaustiva de la configuracion del emulador para speedruns d
 
 [!file Descargar](https://www.mediafire.com/file/s1fil36hivy7qbj/AziAudio.dll/file)
 
-El mejor plugin de audio disponible para Project64. Este en especifico es una version modificada que viene con mejores configuraciones default y el cual guarda la configuracion en AppData.
+El mejor plugin de audio disponible para Project64. Este en especifico es una versión modificada que viene con mejores configuraciones default y el cual guarda la configuracion en AppData.
 
 [!ref Regresar a la selección de plugins](plugin_setup.md#selección-de-plugins)
