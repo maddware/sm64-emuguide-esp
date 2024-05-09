@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.768456721330">
+    <meta name="turbo-root" content="/sm64-guia-emu">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.768536607275">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -14,27 +15,27 @@
     <meta name="description" content="Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64">
 
     <!-- Canonical -->
-    <link rel="canonical" href="/plugin_setup/">
+    <link rel="canonical" href="https://maddware.github.io/sm64-guia-emu/plugin_setup/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="/plugin_setup/">
+    <meta property="og:url" content="https://maddware.github.io/sm64-guia-emu/plugin_setup/">
     <meta property="og:title" content="Configurando los plugins">
     <meta property="og:description" content="Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="/plugin_setup/">
+    <meta property="twitter:url" content="https://maddware.github.io/sm64-guia-emu/plugin_setup/">
     <meta property="twitter:title" content="Configurando los plugins">
     <meta property="twitter:description" content="Guía exhaustiva de la configuración del emulador para speedruns de Super Mario 64">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.5.0.768456721330" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.768536607275" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.768456721330" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.768536607275" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.768456721330" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.768536607275" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -175,7 +176,7 @@
         <span>Configurando los plugins</span>
     </h1>
 </doc-anchor-target>
-<p>Por defecto, Project64 1.6 viene con plugins de Jabo. Si bien generalmente funcionan, estos tienen varios defectos, como sombras faltantes en gráficas de intel o audio distorsionados. Esta sección proporciona información sobre los plugins recomendados, así como sobre cómo configurarlos.</p>
+<p>Por defecto, Project64 1.6 viene con plugins de Jabo. Si bien generalmente funcionan, estos tienen varios defectos, como sombras faltantes en gráficas de intel o audio distorsionado. Esta sección proporciona información sobre los plugins recomendados y sobre cómo configurarlos.</p>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
@@ -200,7 +201,7 @@
         <span>Selección de plugins</span>
     </h2>
 </doc-anchor-target>
-<p>Los Plugins pueden ser cambiados al abrir el menú  de <strong>Options -&gt; Settings</strong>. Luego de seleccionarlos, los plugins pueden ser configurados en <strong>Options -&gt; Configure Graphics/Audio/Controller plugin</strong>. Sigue los links para información detallada de como configurar plugins individualmente.</p>
+<p>Los Plugins pueden ser cambiados al abrir el menú  de <strong>Options -&gt; Settings</strong>. Luego de seleccionarlos, los plugins pueden ser configurados en <strong>Options -&gt; Configure Graphics/Audio/Controller plugin</strong>. Sigue los links para información detallada de cómo configurar plugins individualmente.</p>
 <doc-anchor-target id="plugins-gráficos">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#plugins-gráficos">#</doc-anchor-trigger>
@@ -226,12 +227,12 @@
         <span>Plugins de mando</span>
     </h3>
 </doc-anchor-target>
-<p>Lamentablemente hay un par de diferentes opciones para plugins de mando, con diferentes características cada uno, por lo que el mejor plugin depende de que mando quieras usar.</p>
+<p>Lamentablemente hay un par de diferentes opciones para plugins de mando, con diferentes características cada uno, por lo que el mejor plugin depende de qué mando quieras usar.</p>
 <ul>
 <li>Para usuarios del adaptador <strong>Raphnet N64 to USB v3</strong>: <a href="../raphnetraw/"><strong>raphnetraw</strong></a></li>
 <li>Para mandos <strong>Xbox</strong>, <strong>Dualshock 4/5</strong>, <strong>Switch Pro Controller</strong> o <strong>XInput</strong>: <a href="../octomino/"><strong>Octomino&#x27;s SDL Input</strong></a></li>
 <li>Para  <strong>Teclado</strong>: <a href="../luna/"><strong>Luna&#x27;s DirectInput</strong></a> (recomendado) o <a href="../keyboardinput/"><strong>LINK&#x27;s DirectInput</strong></a></li>
-<li>Para otros mandos con DirectInput o genericos: <a href="../nrage/"><strong>N-Rage&#x27;s Input</strong></a></li>
+<li>Para otros mandos con DirectInput o genéricos: <a href="../nrage/"><strong>N-Rage&#x27;s Input</strong></a></li>
 <li>Para adaptadores de <strong>Gamecube para Wii U/Switch</strong>, <a href="../wiiu_gc/"><strong>mira esta página</strong></a> para instrucciones especiales.</li>
 </ul>
 <doc-anchor-target id="rsp-plugin">
@@ -256,7 +257,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
                                                 <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Configuración basica</span>
+                                                <span class="block mt-1">Configuración básica</span>
                                             </span>
                                         </a>
                                     </div>

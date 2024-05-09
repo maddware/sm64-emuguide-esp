@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://maddware.github.io/sm64-guia-emu/sitemap.xml.gz
